@@ -1,6 +1,6 @@
 #  [😜](https://3o3.org)
 
-## - - [3o3.org](https://3o3.org) - - [cod5.com](https://cod5.com) - - [public-domain archive](https://github.com/public-domain) - -
+## - - [3o3.org](https://3o3.org)  - - [public-domain archive](https://github.com/public-domain) - -
 
 <!--
 **j-m-li/j-m-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
